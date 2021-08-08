@@ -1,0 +1,11 @@
+{
+  "name": "heroku-26",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodeman": "^1.1.2",
+    "y": "^0.3.2"
+  }
+}
